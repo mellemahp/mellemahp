@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there! <img src="https://cdn3.emoji.gg/emojis/7431-lost-in-space.gif" alt="astronaut" width="24px"/>
+I am a software engineer and astrodynamicist living in Denver. I mostly work on random side projects on here. 
 
-<!--
-**mellemahp/mellemahp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im currently on a build tools and [vert.x](https://vertx.io/) kick
 
-Here are some ideas to get you started:
+<details>
+<summary>📊 Some github stats 📈</summary>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellemahp&layout=compact&hide=jupyter%20notebook,makefile,css,html)
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=mellemahp&count_private=true&show_icons=true&theme=onedark)
+
+</details>
