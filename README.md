@@ -1,5 +1,5 @@
 ### Hello there! <img src="https://cdn3.emoji.gg/emojis/7431-lost-in-space.gif" alt="astronaut" width="24px"/>
-I am a software engineer and astrodynamicist living in Denver. I mostly work on random side projects on here. 
+I am a software engineer and former rocket scientist. I mostly work on random side projects on here. 
 
 Im currently on a build tools and [vert.x](https://vertx.io/) kick
 
