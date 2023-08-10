@@ -3,6 +3,8 @@ I am a software engineer and former rocket scientist. I mostly work on random si
 
 Im currently on a build tools and [vert.x](https://vertx.io/) kick.
 
+For more of my professional work see: https://github.com/hpmellema
+
 <details>
 <summary>📊 Some github stats 📈</summary>
 <br />
